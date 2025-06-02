@@ -1,6 +1,6 @@
 To compile the two programs (P1 and P2) provided above, you can follow these steps:
 
-Add input.txt file to directory for processing.
+**Add input.txt file to directory for processing.**
 
 Install the necessary tools:
 
